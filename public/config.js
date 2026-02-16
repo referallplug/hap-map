@@ -103,13 +103,13 @@ const config = {
   
   // UI text and labels
   ui: {
-    appTitle: 'Scanner Map',
+    appTitle: 'Radio Signal Map',
     toggleModeLabels: {
       day: 'Switch to Night Mode',
       night: 'Switch to Satellite Mode',
       satellite: 'Switch to Day Mode'
     },
-    liveStreamButtonText: 'Listen Live'
+    liveStreamButtonText: 'View Live Signals'
   },
   
   // Map styling
